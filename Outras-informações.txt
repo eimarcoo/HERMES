@@ -1,0 +1,388 @@
+Serviços extras de envio:
+
+Aviso de recebimento:
+
+AR Convencional é a comprovação da entrega do objeto postal por meio do formulário específico devolvido ao remetente com os dados do recebedor.
+AR Eletrônico é a comprovação da entrega do objeto postal por meio da imagem dos dados do recebedor disponibilizadas no Portal dos Correios.
+AR Digital é a comprovação da entrega do objeto postal somente para clientes com contrato por meio da imagem digitalizada e disponibilizada no sistema de gestão próprio.
+
+Tabela do Aviso de Recebimento - AR
+Tipo de AR	Valor
+AR Convencional (à vista / a faturar)	R$ 7,75
+AR Eletrônico (à vista /a faturar)	R$ 7,75
+AR Digital (somente a faturar)	R$ 7,75
+Vigente desde 03/04/2024.
+Nota: o AR poderá ser utilizado somente em objeto registrado. O serviço adicional de Registro é obrigatório para utilizar o AR nos serviços de mensagens e marketing, como Carta e Impresso.
+
+Coleta programada:
+Serviço de coleta em que os dias e horários da coleta são definidos previamente, com recorrência programada. Destinada ao atendimento da demanda regular dos clientes com contrato.
+Entre em contato com o consultor comercial que presta apoio ao contrato;
+Estabeleça previamente a frequência (dias e horários).
+As solicitações de coleta são cadastradas no Sistema de Coleta específico, por um dos nossos consultores mediante solicitações do cliente. O cliente também tem a opção de integrar conosco por intermédio da API Coleta Interativa, o que o possibilitará solicitar suas coletas.
+Se a sua empresa já possui contrato com os Correios, fale com o gerente da agência mais próxima ou consulte seu agente de relacionamento nos Correios para informações sobre preços, produtos e/ou serviços. Também é possível solicitar suporte à nossa Central de Atendimento.
+Caso queira contratar os Correios como parceiro logístico, clique aqui e saiba mais.
+
+Coleta agendada:
+Serviço de coleta em que o dia e o horário são definidos com antecedência da data de coleta, mas não há recorrência do agendamento. Destinada a atender a demanda sazonal dos clientes com contrato.
+Entre em contato com o consultor comercial que presta apoio ao contrato;
+Estabeleça previamente a frequência (dias e horários).
+As solicitações de coleta são cadastradas no Sistema de Coleta específico, por um dos nossos consultores mediante solicitações do cliente. O cliente também tem a opção de integrar conosco por intermédio da API Coleta Interativa, o que o possibilitará solicitar suas coletas.
+Se a sua empresa já possui contrato com os Correios, fale com o gerente da agência mais próxima ou consulte seu agente de relacionamento nos Correios para informações sobre preços, produtos e/ou serviços. Também é possível solicitar suporte à nossa Central de Atendimento.
+Caso queira contratar os Correios como parceiro logístico, clique aqui e saiba mais.
+
+Devolução de documento:
+Serviço de devolução, ao REMETENTE, de canhoto de nota fiscal, ou documento equivalente, assinado, sem conferência de conteúdo por parte do DESTINATÁRIO. Exclusivo para cliente com contrato.
+Serviço disponível para Pessoa Jurídica com contrato com os Correios.
+Durante a entrega coletamos a assinatura do recebedor no canhoto de nota fiscal, ou documento equivalente;
+O canhoto de nota fiscal, ou documento equivalente é devolvido ao remetente.
+
+Grandes formatos:
+Serviço disponível para pessoa jurídica com contrato com os Correios, que permite a postagem de encomenda com dimensões superiores aos padrões convencionais.
+Verifique se ela se enquadra nos limites de dimensões para as encomendas Grandes Formatos - GF estão definidos conforme abaixo:
+a) Maior dimensão (comprimento ou largura ou altura): entre 101 cm e 150 cm;
+b) Soma máxima das dimensões (comprimento + largura + altura): entre 201 cm e 300 cm;
+Serviço disponível para Pessoa Jurídica com contrato com os Correios.
+Identifique se o trecho permite a postagem e entrega de objetos com dimensões acima dos padrões convencionais;
+Faça a postagem e pague o valor definido.
+
+Manuseio especial:
+Cobrança adicional aplicada a encomenda que necessita de manuseio especial por formato ou dimensão.
+Na postagem de encomenda cuja maior dimensão (comprimento, largura, altura ou diâmetro) seja superior a 70 cm (de 71 cm a 100 cm).
+Na Postagem de encomenda embalada em formato do tipo "Rolo/Cilíndro ou Esférico".
+Exceção
+A cobrança não será aplicada se forem verificadas as seguintes condições, simultaneamente:
+a) Diâmetro da encomenda em formato "Rolo/Cilíndrico" maior que o seu comprimento;
+b) Diâmetro for menor ou igual a 70 cm;
+c) Rótulo de postagem afixado na maior face da embalagem.
+
+Mão própria:
+Serviço que garante a entrega exclusivamente às pessoas indicadas pelo REMETENTE, podendo haver, para cada encomenda, até três indicações.
+Marque a opção de Mão Própria - MP
+Durante a entrega o carteiro verificará a identidade do recebedor e entregará em mãos à pessoa indicada pelo remetente, podendo haver, para cada encomenda, até três indicações (apenas para clientes com contrato)
+Tabela do Mão Própria
+Tipo de Serviço	Valor
+Mão Própria (à vista / a faturar)	R$ 9,15
+Vigente desde 03/04/2024.
+Nota: O Mão Própria poderá ser utilizado somente em objetos registrados. O serviço adicional de Registro é obrigatório para utilizar o MP nos serviços de mensagens e marketing, como Carta e Impresso.
+
+Pagamento na entrega:
+Quem envia o objeto define o valor a ser cobrado no destino, quem recebe paga na retirada.
+O remetente no ato da postagem solicita o serviço e define o valor a ser cobrado no destino;
+No ato da entrega o valor é cobrado do destinatário;
+O valor cobrado é devolvido ao remetente.
+Importante: O valor a ser cobrado no destino, não pode ser inferior ao valor da postagem nem superior ao valor da postagem mais valor declarado do conteúdo. Este valor cobrado é devolvido ao remetente, de forma on-line ou creditado em conta corrente (para clientes com contrato).
+
+Valor declarado:
+A garantia de indenização no montante declarado, em caso eventual de avaria ou extravio, proporcional ao dano (parcial ou total) do conteúdo.
+Apresente o objeto para postagem em embalagem aberta para conferência do conteúdo e o valor declarado;
+Informe o valor do conteúdo, que não poderá exceder o valor real do objeto, conforme indicação constante na Nota Fiscal ou no Formulário Declaração de Conteúdo;
+Poste o objeto com a garantia de que o valor do seu objeto registrado seja indenizado no montante declarado em caso eventual de avaria ou extravio, proporcional ao dano (parcial ou total) do conteúdo.
+Importante: Alguns objetos estão sujeitos a obrigatoriedade de declaração de valor, podendo ser aplicada multa em eventual omissão.
+Valor Declarado Máximo Nacional - Serviços de Mensagem e Marketing Direto R$ 100,00
+Pagamento do Valor Declarado
+Mala Direta e Impresso: 2% sobre o valor declarado para o objeto
+Carta, FAC, Remessa Econômica e Remessa Expressa: 2% sobre o valor declarado para o objeto
+Valor Declarado Máximo Nacional - Encomendas
+SEDEX Hoje, SEDEX 10, SEDEX 12 e SEDEX R$ 35.571,17
+PAC R$ 4.184,84
+Correios Mini Envios R$ 104,62
+Pagamento do Valor Declarado - Encomendas
+Clientes sem contrato: 2% sobre o valor declarado (o percentual de Ad Valorem incidirá sobre a quantia excedente a Indenização Automática);
+Clientes com contrato: conforme especificado em contrato.
+Multa por omissão de Valor Declarado R$ 45,00
+Vigente desde 03/04/2024.
+
+Registro:
+É o serviço em que o cliente recebe o documento de comprovação da postagem, com numeração específica para identificar e rastrear o objeto.
+Solicite o serviço antes da postagem;
+O atendente irá inserir uma etiqueta de registro para visualizar mais detalhadamente o trajeto percorrido por seu objeto, da origem até o destino;
+Acompanhe a entrega do seu objeto por meio do nosso rastreamento.
+Tabela do Registro Nacional e Registro Módico
+Tipo de Registro	Valor
+Registro Nacional (à vista / a faturar)	R$ 7,75
+Registro Módico* (à vista / a faturar)	R$ 3,90
+Vigente desde 03/04/2024.
+(*) Registro Módico é de uso exclusivo no serviço Impresso para envio de livros, publicações didáticas impressas ou gravadas em mídia, postado por pessoa física ou jurídica.
+
+Serviço de resposta:
+Ideal para o retorno de pedidos de compra, realização de pesquisas, recadastramentos, voto por correspondência dentre outras possibilidades.
+Solicite o serviço antes da postagem;
+O destinatário preenche e devolve as informações solicitadas.
+Serviços de Resposta
+Carta-Resposta e Carta-Resposta Taxa Paga
+Faixas de Peso (g)	Preço
+Até 20	R$ 2,55
+Mais de 20 até 50	R$ 3,55
+Mais de 50 até 100	R$ 4,95
+Mais de 100 até 150	R$ 6,05
+Mais de 150 até 200	R$ 7,15
+Mais de 200 até 250	R$ 8,25
+Mais de 250 até 300	R$ 9,45
+Mais de 300 até 350	R$ 10,50
+Mais de 350 até 400	R$ 11,60
+Mais de 400 até 450	R$ 12,70
+Mais de 450 até 500	R$ 13,80
+
+Cartão-Resposta
+Faixas de Peso (g)	Preço
+Até 20	R$ 2,55
+Vigente a partir de 03/04/2024
+
+Transcrição em braile:
+É um serviço adicional oferecido em todas as agências próprias dos Correios no país, que possibilita a transcrição para o sistema Braille (recurso em relevo que permite a leitura pelos cegos) de cartas manuscritas ou digitadas. O serviço pode ser utilizado também por quem não domina a linguagem Braille e quer se comunicar com deficientes visuais.
+Disponível em todas as agências próprias dos Correios no país;
+Pode ser utilizado também por quem não domina a linguagem Braille e quer se comunicar com deficientes visuais.
+O limite de transcrição é de duas páginas ou uma folha frente e verso.
+O prazo para transcrição é de até dois (2) dias úteis.
+Transcrição-Braille R$ 4,55
+Vigente desde 03/04/2024.
+
+Quem pode utilizar estes serviços?
+Pessoas físicas e jurídicas com e sem contrato com os Correios.
+Lembrando que alguns serviços são exclusivos para quem possui contrato com os Correios
+
+Importante!
+Serviços Aplicáveis às Encomendas
+Serviço Adicional
+Aviso de Recebimento Convencional
+Aviso de Recebimento Eletrônico
+Aviso de Recebimento Digital
+Coleta Programada* Serviço de coleta com frequência (dias e horários) previamente estabelecidos.
+Coleta Agendada* Serviço de coleta domiciliar solicitada por meio do portal dos Correios.
+Devolução de Documento* Serviço de devolução de canhoto de nota fiscal, ou documento equivalente, assinado, pelo recebedor.
+Grandes Formatos* Permite a postagem de encomenda com dimensões superiores aos padrões convencionais.
+Manuseio Especial Obrigatório para encomenda que necessita de manuseio especial por formato ou dimensão.
+Mão Própria Garante a entrega exclusivamente às pessoas indicadas pelo REMETENTE.
+Pagamento na Entrega Quem envia o objeto define o valor a ser cobrado no destino, quem recebe paga na retirada.
+Valor Declarado A garantia de indenização no montante declarado, em caso eventual de avaria ou extravio, proporcional ao dano.
+A disponibilização dos serviços adicionais está condicionada à viabilidade dos CORREIOS.
+*Exclusivo para clientes com contrato com os Correios.
+Serviços Aplicáveis às Correspondências
+Serviço Adicional
+Aviso de Recebimento - AR Para Comprovação da entrega com informação do recebedor e validade jurídica.
+Mão Própria Garante a entrega exclusivamente às pessoas indicadas pelo REMETENTE.
+Valor Declarado A garantia de indenização no montante declarado, em caso eventual de avaria ou extravio, proporcional ao dano.
+Registro Fornecimento de etiqueta com numeração específica para identificar e rastrear o objeto
+Registro Módico
+Pedido de Confirmação Será enviado a confirmação para o endereço do remetente (expedidor) constante no telegrama original.
+Cópia de Telegrama Será enviado para o endereço do remetente (expedidor) ou endereço do destinatário constante no telegrama original, conforme escolha do remetente.
+*** A disponibilização dos serviços adicionais está condicionada à utilização do "Registro".**
+**** Registro automático.**
+Transcrição Braille
+O serviço pode ser utilizado também por quem não domina a linguagem Braille e quer se comunicar com deficientes visuais. O Limite de transcrição é de duas páginas ou uma folha frente e verso. O prazo para transcrição é de até dois (2) dias úteis.
+Modelos de AR Eletrônico para Download
+Auto Envelopado: ideal para correspondências com impressão dos dois lados do papel, geralmente A4. Possui duas serrilhas laterais.
+Modelo AR Eletrônico - Auto envelopado (.pdf 428Kb)
+Modelo AR Eletrônico - Auto envelopado (.cdr 153Kb)
+Integrado: Possui uma serrilha, esse formulário deverá ser colado na extremidade esquerda do anverso do objeto.
+Modelo AR Eletrônico - Integrado (.pdf 503Kb)
+Modelo AR Eletrônico - Integrado (.cdr 703Kb)
+Compacto: Possui uma serrilha lateral, modelo ideal para objetos com dimensões de 90x145mm, ou medidas aproximadas.
+Modelo AR Eletrônico - Compacto (.pdf 469Kb)
+Modelo AR Eletrônico - Compacto (.cdr 694Kb)
+
+Envio internacional:
+Serviços de acordo com a sua necessidade
+Exporta Fácil:
+Para empresas de qualquer porte ou natureza jurídica, microempreendedores individuais além de artesãos e agricultores registrados, pessoas físicas, desde que não se caracterize como habitualidade e/ou prática comercial.
+Precisa fazer uma exportação? Veja como é fácil!
+ENVIO Antes de realizar um envio para o exterior, confira os serviços dos Correios disponíveis para cada país e os respectivos preços e prazos.
+RASTREAMENTO Depois do envio, faça o rastreamento da sua encomenda com o código de registro. É ideal informar o mesmo código ao destinatário para a consulta no país de destino.
+DOCUMENTAÇÃO Consulte quais são os documentos necessários para o recebimento e liberação da encomenda no país de destino. Veja as normas e restrições.
+PRÉ-POSTAGEM Com a documentação em ordem, faça a pré-postagem internacional no site dos Correios para ter mais agilidade no atendimento da agência.
+Limites e Dimensões
+O que posso exportar?
+Documentos
+Produtos com valor comercial
+Amostras
+Presentes
+Documentação mínima exigida
+Para qualquer destino:
+Conhecimento de Embarque (Formulário de postagem - CP72/AWB). Atualmente emitidos gratuitamente em nossas agências. Você também pode preencher o formulário eletrônico em nosso site.
+Nota Fiscal.
+Fatura Comercial (Commercial Invoice)
+Outros documentos podem ser acrescentados de acordo com a solicitação do importado, ou exigências da aduana de origem ou destino. Exemplos: Certificado de origem, licença de exportação, visa têxtil (carimbo).
+Alguns destinos não aceitam objetos específicos. Por isso, recomendamos realizar consulta às restrições específicas de cada país, no site da UPU - União Postal Universal.
+
+Registro de exportação
+
+É obrigatório quando o valor da remessa internacional ultrapassar 1.000 dólares ou quando for caracterizada como objeto de exportação comercial (venda), qualquer que seja o valor. Em consonância com a Portaria COANA-RFB no 82, publicada em 18/10/2017, o registro das exportações comerciais cursadas pelo Exporta Fácil poderá ser realizado nas seguintes hipóteses:
+
+Desembaraço
+
+Tipo de Desembaraço	Valor do bem
+Lista de Remessa	Até US$1.000 ou equivalente
+Declaração Única de Exportação (DU-E)	Qualquer valor
+
+O Auditor responsável pelo desembaraço aduaneiro poderá aplicar a hipótese de desembaraço mais adequada.
+
+Formulário e documentos
+
+Exportação Temporária (Reimportação) - Guia e Requerimento(.ods 170Kb);
+
+Fatura Pro Forma e Fatura Comercial (.ods 18Kb);
+
+Formulário CN22 (.pdf 30Kb);
+
+Formulário de postagem(.ods 73Kb);
+
+Formulário de declaração do viajante (.ods 17Kb);
+
+Termo de Condições Gerais de Prestação dos Serviços Internacionais (.pdf 229Kb)
+
+Etiqueta - Encomendas com Líquidos (.pdf 374kb)
+
+E-book Exportação
+
+Saiba como exportar fácil e sem burocracia (.odp 14MB)
+
+Exporta Fácil +
+
+Para cargas acima de 30kg, sem restrições de conteúdo ou dimensão, oferecemos um serviço completo com propostas de preço e prazo personalizadas, consultoria especializada, opções de envio marítimo, aéreo ou terrestre, rastreamento completo e faturamento seguro em contrato. Venha ser nosso cliente exportador!
+
+Saiba mais sobre o Exporta Fácil + aqui.
+
+Baixe os e-books e conheça todos os detalhes da exportação
+
+E-book Exporta Fácil +
+
+E-book credenciamento
+
+Personalize sua encomenda
+
+Você pode personalizar seu envio internacional adicionando serviços adicionais que acompanham a postagem. Adicione o valor declarado para garantir indenização no montante declarado, em caso de avaria ou extravio.
+
+Indenização Automática
+
+Modalidade	Exporta Fácil
+Expresso	R$ 200,00
+Standard	R$ 100,00
+Econômico	R$ 50,00
+
+*Somente para objetos registrados
+
+Proibições e Restrições
+
+Antes de enviar, saiba quais itens não podem ser enviados ou estão restritos
+
+Saiba mais sobre Proibições e Restrições
+
+Tipos de entrega:
+
+Entrega Nacional:
+
+Locker - O armário inteligente dos Correios
+
+Mais praticidade e conveniência para quem recebe
+
+Os terminais podem funcionar 24 horas por dia 7 dias por semana
+
+Na hora da compra, escolha o Locker mais próximo de você
+
+A retirada é simples, basta levar o QR Code enviado pelo app ou e-mail
+
+Os Lockers estão em locais seguros e acessíveis
+
+A retirada é gratuita
+
+Saiba como usar nossos Lockers
+
+RECEBA SUAS ENCOMENDAS NO LOCKER DOS CORREIOS DE SUA PREFERÊNCIA E AGILIZE A RETIRADA COM O APP!
+
+VEJA COMO É FÁCIL RECEBER SUA ENCOMENDA NO LOCKER DOS CORREIOS
+
+Compre on-line e use o CEP DO LOCKER no endereço de entrega.
+
+Receba notificações da sua encomenda no App Correios.
+
+Acesse o QR Code enviado por e-mail ou pelo App para retirar a encomenda.
+
+Retire sua encomenda no Locker Correios.
+
+Entrega no Endereço
+
+Basta informar o seu endereço completo e correto no pacote, e a gente garante a entrega segura e no prazo combinado.
+
+Quer mais detalhes? Consulte as diretrizes para entrega.
+
+Entrega no Vizinho
+
+Se não estiver em casa para receber, podemos entregar seu pacote em um endereço vizinho indicado por você no endereçamento.
+
+Clique aqui e faça sua postagem online ou baixe a Etiqueta de Endereçamento Manual (.pdf800kb).
+
+Caixa de Correios Inteligente
+
+Receba suas encomendas no seu condomínio sem depender da portaria.
+
+Escolha a praticidade e simplifique seu dia a dia.
+
+Veja aqui como essa solução pode facilitar o seu dia a dia.
+
+Entrega garantida, mesmo quando você não estiver em casa.
+
+Para deixar essa opção disponível, o remetente deve identificar no endereçamento qual é o vizinho autorizado a receber o pacote e sinalizar essa opção de entrega ao atendente no momento da postagem.
+
+Caso o destinatário esteja ausente, o carteiro fará a entrega no endereço vizinho.
+
+Considera-se vizinho o endereço situado duas casas à direita, ou à esquerda, ou imediatamente à frente do endereço do destinatário. Em casos de prédio, qualquer apartamento do mesmo edifício.
+
+Funcionalidade disponível para os serviços de encomenda SEDEX Hoje, SEDEX 10, SEDEX 12, SEDEX e PAC. Para utilizá-la, é obrigatório que o rótulo de endereçamento siga o padrão dos Correios, conforme o Guia Técnico de Endereçamento.
+
+Para prédios e condomínios sem portaria
+
+Solução exclusiva para Condomínios Residenciais sem portaria e que precisam receber as encomendas dos moradores sem que haja a necessidade de alguém para recebê-las.
+Os pacotes podem ser retirados 24 horas por dia durante toda a semana.
+Após a instalação, é necessário entrar em contato com os Correios para que a entrega das encomendas passe a ser feita nesses dispositivos.
+É importante enfatizar que todos os processos de venda, instalação, manutenção e suporte são de responsabilidade do fornecedor e que as condições devem ser negociadas diretamente entre os fornecedores e os condomínios interessados.
+Condomínios e empresas que quiserem aderir, devem conhecer o termo de condições de prestação do serviço. Clique e acesse a lista de empresas credenciadas.
+Faça o download do App Correios e receba as notificações das encomendas enviadas.
+Baixe aqui(.odt 727Kb) a descrição técnica das funcionalidades da Caixa de Correios Inteligente.
+
+Caixa Postal
+Segurança e comodidade para quem não tem endereço fixo ou mora em locais com restrições de entrega.
+Assinatura/Renovação de Caixa Postal
+Modalidade	Assinatura
+Semestral	97,20
+Anual	164,15
+Bianual	323,95
+Chaves	39,65
+Fechaduras	225,70
+Vigente desde 03/04/2024.
+Pessoa Física ou Jurídica
+O cliente aluga uma Caixa Postal para receber seus objetos e correspondências. Os avisos de chegada são depositados na Caixa Postal do assinante, que terá uma chave para retirada do material.
+Para Comunidades
+O serviço é gratuito. A pessoa jurídica representante legal da comunidade assina um Termo de Compromisso, assegurando local adequado para instalação e se responsabilizando pela administração e manutenção do módulo de Caixas Postais Comunitárias. Os moradores utilizam o endereço da caixa comunitária, informando como complemento o número das caixas individuais que terão uma chave para cada morador.
+
+Clique e Retire
+Forneça o endereço e cep da agência mais conveniente para você e retire suas encomendas.
+Entenda mais sobre o Clique e Retire
+Entrega Interativa
+Receba atualizações em tempo real via SMS sobre sua encomenda.
+Saiba como obter atualizações do envio
+Retirada de encomendas por terceiros
+Permita que uma pessoa autorizada retire sua encomenda com confiança e segurança.
+Prazo de Guarda
+Receba notificações da sua encomenda via SMS
+Informe o número do seu celular no ato da postagem.
+Clientes com contrato podem fazer o cadastro pela pré-postagem, via SIGEP Web.
+
+Como suspender a entrega?
+Se após a postagem, o remetente precisar cancelar o envio do objeto ao destinatário, deve selecionar a opção "Suspender Entrega" através do Sistema de Rastreamento.
+Como suspender?
+Realize o rastreamento e selecione a opção "Suspender Entrega"
+Após efetuar o login no Meu Correios, informe o ID Tíquete que estará disponível no comprovante de postagem.
+Pronto, agora é só aguardar a encomenda ser direcionada às unidades responsáveis e retornar ao endereço do remetente.
+Informe o CPF/CNPJ na postagem
+A suspensão da entrega só é possível se o CPF/CNPJ tiver sido informado no ato da postagem.
+Se esses dados tiverem sido informados, mas a opção "Suspender Entrega" estiver inativa, é porque a situação logística do objeto impede a devolução. A encomenda já pode ter saído para entrega ou estar disponível para retirada. Isso também pode ocorrer se a encomenda estiver em processo de fiscalização.
+
+Correios Packet
+Importe e distribua as mercadorias internacionais de até 30kg da sua empresa por meio da contratação direta dos Correios.
+
+Correios Packet
+O Correios Packet é o serviço de contratação direta de distribuição de encomendas no Brasil, que compreende o recebimento no Brasil, o desembaraço aduaneiro e a distribuição em domicílio, ofertado aos atuantes na cadeia logística do comércio eletrônico internacional, desde vendedores internacionais, marketplaces, operadores logísticos privados e operadores postais designados. A contratação do Correios Packet é exclusiva para pessoas jurídicas.
+Continuação da Extração de Texto do PDF dos Correios
+ *O prazo previsto de entrega deverá ser considerado após a finalização da fiscalização aduaneira.
+**Processo 100% automatizado garantindo maior agilidade no desembaraço aduaneiro, tratamento e distribuição.
+***O prazo previsto de entrega deverá ser considerado após o pagamento confirmado.

@@ -1,0 +1,41 @@
+Limites e Dimensões
+
+Caixa
+
+SEDEX Hoje
+Comprimento (C): de 11 cm até 70 cm
+Largura (L): de 6 cm até 70 cm
+Altura (A): de 0,4 cm até 70 cm
+Soma das dimensões: de 17,4 cm até 200 cm
+
+SEDEX 10, SEDEX 12, SEDEX e PAC
+Comprimento (C): de 13 cm até 100 cm
+Largura (L): de 8 cm até 100 cm
+Altura (A): de 0,4 cm até 100 cm
+Soma das dimensões: de 21,4 cm até 200 cm
+
+MINI ENVIOS
+Comprimento (C): de 13 cm até 24 cm
+Largura (L): de 8 cm até 16 cm
+Altura (A): de 0,4 cm até 4 cm
+Soma das dimensões: de 21,4 cm até 44 cm
+
+Envelope
+Comprimento (C): de 16 cm até 60 cm
+Largura (L): de 11 cm até 60 cm
+
+Cilindro
+Comprimento (C): de 18 cm até 100 cm
+Diâmetro (D): de 5 cm até 91 cm
+Soma das dimensões: de 28 cm até 200 cm
+
+Locker
+Encomendas destinadas ao Locker:
+Comprimento (C): até 47 cm
+Largura (L): até 31 cm
+Altura (A): até 27 cm
+
+Encomendas Correios Mini Envios, destinados ao Locker:
+Comprimento (C): de 13 cm até 24 cm
+Largura (L): de 8 cm até 16 cm
+Altura (A): de 0,4 cm até 4 cm
